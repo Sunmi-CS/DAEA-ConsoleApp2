@@ -3,7 +3,7 @@ using ConsoleApp2;
 using System;
 using System.Collections.Generic;
 
-namespace ConsoleApp1
+namespace ConsoleApp2
 {
     internal class Program
     {
